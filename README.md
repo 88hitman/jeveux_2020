@@ -9,7 +9,7 @@ Creation of a "notes/wish list" application with Flutter and sqfLite.
 
 ## Features
 
-- Use of sqfLite (sql database for android/iOS)
+- Use of sqfLite (sql dbms for android/iOS)
 - Use of image_picker and path_provider plugins for images
 - Asynchronous programming
 
