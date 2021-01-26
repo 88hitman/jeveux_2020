@@ -2,7 +2,9 @@
 
 Creation of a "notes/wish list" application with Flutter and sqfLite.
 
-<img src="https://github.com/88hitman/flutter_social/blob/master/assets/ss0.jpg" alt="How example looks" width="300" height="540">
+<img src="https://github.com/88hitman/jeveux_2020/blob/master/images/ss0.jpg" alt="How example looks" width="300" height="540">
+<img src="https://github.com/88hitman/jeveux_2020/blob/master/images/ss1.jpg" alt="How example looks" width="300" height="540">
+<img src="https://github.com/88hitman/jeveux_2020/blob/master/images/ss2.jpg" alt="How example looks" width="300" height="540">
 
 
 ## Features
